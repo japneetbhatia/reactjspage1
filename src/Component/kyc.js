@@ -30,6 +30,7 @@ function kyc() {
                 <div className="form">
                     <Form />
                 </div>
+                <div className="line"></div>
                 <div className="footer">
                     <button className="save" onClick={handleFormReloading}> <span className="savewriiten">Save </span></button>
                     <button className="savenext" onClick={handleFormReloading}> <span className="savenextwritten">Save & Next</span></button>

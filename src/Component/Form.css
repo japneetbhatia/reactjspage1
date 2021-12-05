@@ -1,0 +1,32 @@
+.form-wrapper {
+    margin-top: 45px;
+    margin-left: 255px;
+}
+
+.name {
+    margin-top: 35px;
+}
+
+.label {
+    margin-right: 35px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #4C5565;
+}
+
+.mandatory {
+    color: red;
+}
+
+.input{
+    position: absolute;
+    width: 266px;
+    height: 40px;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    box-sizing: border-box;
+    border-radius: 5px;
+}
